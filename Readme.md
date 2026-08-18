@@ -10,7 +10,7 @@ This repository showcases end-to-end, production-grade DevOps projects focusing 
 I am a Cloud & DevOps Engineer certified in **Microsoft Azure (AZ-104 & AZ-900)** with hands-on experience designing automated CI/CD pipelines, provisioning multi-environment cloud infrastructure, and deploying scalable containerized workloads.
 
 * 🌐 **LinkedIn:** [linkedin.com/in/archit-gandotra-517831204](https://www.linkedin.com/in/archit-gandotra-517831204.
-* 🐙 **GitHub:** [github.com/Archit213](https://github.com/Archit213.
+* 🐙 **GitHub:** [github.com/Archit213](https://github.com/Archit213/DevOps_Projects.
 * 📧 **Email:** architgandotra9@gmail.com.
 
 ---
