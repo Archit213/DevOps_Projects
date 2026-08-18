@@ -9,8 +9,8 @@ This repository showcases end-to-end, production-grade DevOps projects focusing 
 
 I am a Cloud & DevOps Engineer with hands-on experience designing automated CI/CD pipelines, provisioning multi-environment cloud infrastructure, and deploying scalable containerized workloads.
 
-* 🌐 **LinkedIn:** [linkedin.com/in/archit-gandotra-517831204](https://www.linkedin.com/in/archit-gandotra-517831204)[cite: 1]
-* 🐙 **GitHub:** [github.com/Archit213](https://github.com/Archit213)[cite: 1]
+* 🌐 **LinkedIn:** [linkedin.com/in/archit-gandotra-517831204](https://www.linkedin.com/in/archit-gandotra-517831204)
+* 🐙 **GitHub:** [github.com/Archit213](https://github.com/Archit213)
 * 📧 **Email:** architgandotra9@gmail.com
 
 ---
@@ -20,12 +20,12 @@ I am a Cloud & DevOps Engineer with hands-on experience designing automated CI/C
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud Platforms** | Amazon Web Services (EKS, ECR, VPC, S3, DynamoDB, Secrets Manager, KMS, IAM) |
-| **Infrastructure as Code** | Terraform, Ansible, Vagrant[cite: 1] |
-| **Containers & Orchestration** | Docker, Kubernetes (Amazon EKS, Minikube, Helm, kubectl)[cite: 1] |
-| **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD[cite: 1] |
+| **Infrastructure as Code** | Terraform, Ansible, Vagrant|
+| **Containers & Orchestration** | Docker, Kubernetes (Amazon EKS, Minikube, Helm, kubectl)|
+| **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD|
 | **DevSecOps & Security** | SonarQube, Trivy, Checkov, GitLeaks, AWS Secrets Manager |
 | **Observability & Logging** | Prometheus, Grafana, Alertmanager, Tempo, Loki |
-| **Scripting & OS** | Bash, Python, Linux (Ubuntu)[cite: 1] |
+| **Scripting & OS** | Bash, Python, Linux (Ubuntu)|
 
 ---
 
